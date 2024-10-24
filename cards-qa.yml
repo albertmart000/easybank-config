@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+cards:
+  message: "Welcome to EasyBank cards related QA APIs "
+  contactDetails:
+    name: "Developer Seven - QA Lead"
+    email: "seven@easybank.com"
+  onCallSupport:
+    - (785) 545-6565
+    - (853) 546-3467
