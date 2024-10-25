@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Hey, hey! welcome to EasyBank accounts related production APIs "
+  message: "Hey, welcome to EasyBank accounts related prod APIs "
   contactDetails:
     name: "Developer Five- Product Owner"
     email: "{cipher}0c7236d24cf3380035811e3e39ebfa8e7990f4f79844bd27851aadd7a6a2b2844e89666093269a7fde92a5368a22c7d0"
